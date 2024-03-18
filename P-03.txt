@@ -1,0 +1,1 @@
+En JavaScript no existen los tipados. Al contrario de TypeScript, el cual es un lenguaje fuertemente tipado, donde se pueden crear tipos genéricos o interfaces.
